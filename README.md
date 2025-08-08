@@ -290,15 +290,3 @@ The application will be available at:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For support or questions, please open an issue in the repository.
-
----
-
-**Note**: This is a complete full-stack application ready for development and production use. The seed script provides sample data to get started immediately. 
